@@ -379,6 +379,10 @@ The following examples are covered in the source code:
 - print a salary value of 56789.9876 rounded to 2 decimal places.
 - create a formatted employee report with columns: ID, Name, Department, and Salary.
 
+<img width="446" height="477" alt="image" src="https://github.com/user-attachments/assets/d8b273ae-b9cd-4e2b-a11a-8325ee940312" />
+<img width="446" height="190" alt="image" src="https://github.com/user-attachments/assets/c19075ce-5e10-4eed-a488-ff096a3527eb" />
+
+
 Refer to the source files for complete implementations:
 
 - **PrintExample.java**
