@@ -192,7 +192,7 @@ A complete example covering:
 
 📄 **Example Source Code**
 
-[DataTypesExample.java](https://github.com/Monika752/Java-Guide/blob/main/core-java/03_Datatypes/datatypesExample.java)
+[DataTypesExample.java](https://github.com/Monika752/Java-Guide/blob/main/core_java/03_Datatypes/datatypesExample.java)
 
 # sample output
 
