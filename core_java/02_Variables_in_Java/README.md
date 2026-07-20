@@ -226,7 +226,7 @@ All examples related to variables are available in:
 
 📄 **VariablesExample.java**
 
-https://github.com/Monika752/Java-Guide/blob/main/core_java/Variables/variablesExample.java
+https://github.com/Monika752/Java-Guide/blob/main/core_java/02_Variables_in_Java/variablesExample.java
 
 ---
 

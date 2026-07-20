@@ -1,5 +1,3 @@
-package core_java.Variables;
-
 // Refer README.md for explanation of the variables in java.
 // Here are some examples for declaring and using variables in Java.
 
