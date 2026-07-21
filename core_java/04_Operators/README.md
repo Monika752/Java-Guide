@@ -206,6 +206,6 @@ When multiple operators appear in an expression, Java follows a predefined prece
 You can find example programs here:
 
 - **OperatorsExample.java**  
-  https://github.com/Monika752/Java-Guide/blob/main/core-java/04-Operators/OperatorExample.java
+  https://github.com/Monika752/Java-Guide/blob/main/core_java/04_Operators/OperatorExample.java
 
 ---
