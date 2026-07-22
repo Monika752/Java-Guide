@@ -297,10 +297,5 @@ System.out.println("Total = " + a + b);
 
 # Example Programs
 
-Practice programs are available here:
-
-👉 **Scanner Examples:**  
-`core-java/05-Scanner/`
-
-👉 **Concatenation Examples:**  
-`core-java/05-Scanner/ConcatenationExamples.java`
+👉 **Examples:**  
+`https://github.com/Monika752/Java-Guide/blob/main/core_java/05_Scanner_class/scannerClass.java`
