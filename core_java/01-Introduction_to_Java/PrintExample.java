@@ -28,6 +28,7 @@ public class PrintExample {
         String name = "Monika";
         int age = 21;
         System.out.printf("My name is %s and I am %d years old.", name, age);
+        System.out.println("My name is " + name + " and I am" + age + "years old.");
 
     }
 }
